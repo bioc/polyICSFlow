@@ -1,3 +1,7 @@
+# polyICSFlow 0.99.5 (2026/09/09)
+
+-   Removed CytoExploreR from package dependencies.
+
 # polyICSFlow 0.99.4 (2026/08/17)
 
 -   Commits to address Bioconductor review comments about vignette, code, and raw data documentation.
