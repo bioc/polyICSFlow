@@ -185,7 +185,7 @@ From the output of the previous function, we then assign each cell cytokine comb
 
 Either in simple mode, where we get information on:
 
--   **`MarkerComb`**: A factor describing which marker combination a specific cell has. It represents all mutually exclusive combinations (e.g., 4 markers → 2⁴ = 16 combinations).
+-   **`MarkerComb`**: A factor describing which marker combination a specific cell has. It represents all mutually exclusive combinations (e.g., 4 markers → 2^4 = 16 combinations).
 
 -   **`MarkerCount`**: An integer describing the number of functions of the cell (i.e., the count of positive markers).
 

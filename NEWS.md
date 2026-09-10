@@ -1,3 +1,7 @@
+# polyICSFlow 0.99.6 (2026/09/10)
+
+-   Fixed fixed LaTeX Error: Unicode character error for BioConductor build.
+
 # polyICSFlow 0.99.5 (2026/09/09)
 
 -   Removed CytoExploreR from package dependencies.

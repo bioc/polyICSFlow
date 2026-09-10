@@ -28,8 +28,8 @@ A ggplot.
 }
 \description{
 Plot a stacked bar plot of cell counts by marker combination, faceted by the minimum number of markers
-co-expressed (\eqn{≥1, ≥2, …, ≥n}). Within each facet, the x-axis shows all marker or marker-combination categories
-corresponding to that level (e.g., single markers for \eqn{≥1}, two-marker combinations for \eqn{≥2}, etc.).
+co-expressed (\eqn{\geq 1, \geq 2, \ldots, \geq n}). Within each facet, the x-axis shows all marker or marker-combination categories
+corresponding to that level (e.g., single markers for \eqn{>=1}, two-marker combinations for \eqn{>=2}, etc.).
 }
 \examples{
 # Define path to data

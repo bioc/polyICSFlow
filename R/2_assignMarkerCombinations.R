@@ -12,7 +12,7 @@
 #' @returns The input data.frame with three extra columns describing
 #'     \itemize{
 #'       \item{\code{MarkerComb}: A factor describing which marker combination a specific cell has. Describes
-#'       the exact combinations, which are mutually exclusive (e.g., 4 markers → 2⁴ = 16 combinations).}
+#'       the exact combinations, which are mutually exclusive (e.g., 4 markers → 2^4 = 16 combinations).}
 #'       \item{\code{MarkerCount}: An integer describing the number of functions of the cell (count of positive markers).}
 #'       \item{\code{Functionality}: A factor grouping \code{MarkerCount)} into three categories; No cytokines (\code{MarkerCount == 0}),
 #'       Monofunctional (\code{MarkerCount == 1}), or Polyfunctional (\code{MarkerCount > 1}).}

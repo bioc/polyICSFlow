@@ -2,7 +2,7 @@ Package: polyICSFlow
 Type: Package
 Title: Identifying the Frequency of Polyfunctional Antigen-Specific T cells 
     in ICS Flow Cytometry Data
-Version: 0.99.5
+Version: 0.99.6
 Authors@R: c(person("Lisa", "Loksø Dietz",
                     role = c("aut", "cre"),
                     email = "lisdie@clin.au.dk",
